@@ -1,3 +1,4 @@
 # learning-CSS
-Here, i learnt HTML from scratch with freeCodeCamp by building a Cat Photo App.
+Here, i learnt CSS from scratch with freeCodeCamp by building a Cafe Menu.
+
 
